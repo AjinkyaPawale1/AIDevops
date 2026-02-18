@@ -1,0 +1,3 @@
+# Future enhancements (reserved for AI-powered natural language processing)
+# openai>=1.0.0
+# python-dotenv>=1.0.0
