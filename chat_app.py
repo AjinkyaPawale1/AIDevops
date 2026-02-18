@@ -3,7 +3,6 @@ Microsoft Products Chat Application
 A simple chat interface to answer questions about Microsoft products
 """
 
-import sys
 from knowledge_base import MICROSOFT_PRODUCTS_KB, search_product, get_product_info, list_all_products
 
 
